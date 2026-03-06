@@ -188,4 +188,4 @@ cloudPostureScanner/
 
 ---
 
-**⚠️ Disclaimer**: This tool is for security assessment purposes. Always test in non-production environments first and ensure you have proper authorization before scanning AWS resources.
+
